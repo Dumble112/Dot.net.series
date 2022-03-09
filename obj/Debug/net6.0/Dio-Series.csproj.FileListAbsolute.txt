@@ -1,0 +1,15 @@
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.csproj.AssemblyReference.cache
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.AssemblyInfoInputs.cache
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.AssemblyInfo.cs
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.csproj.CoreCompileInputs.cache
+E:\Maquina Virtual\Dio-net\Dio-Series\bin\Debug\net6.0\Dio-Series.exe
+E:\Maquina Virtual\Dio-net\Dio-Series\bin\Debug\net6.0\Dio-Series.deps.json
+E:\Maquina Virtual\Dio-net\Dio-Series\bin\Debug\net6.0\Dio-Series.runtimeconfig.json
+E:\Maquina Virtual\Dio-net\Dio-Series\bin\Debug\net6.0\Dio-Series.dll
+E:\Maquina Virtual\Dio-net\Dio-Series\bin\Debug\net6.0\Dio-Series.pdb
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.dll
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\refint\Dio-Series.dll
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.pdb
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\Dio-Series.genruntimeconfig.cache
+E:\Maquina Virtual\Dio-net\Dio-Series\obj\Debug\net6.0\ref\Dio-Series.dll
